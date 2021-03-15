@@ -1,2 +1,2 @@
 # open-circuit
-Crowd-sourced initiative to reverse engineer Circuit's plotter/cutter communication protocol and make it open
+Crowd-sourced initiative to reverse engineer Cricut's plotter/cutter communication protocol and make it open
